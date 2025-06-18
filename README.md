@@ -1,6 +1,6 @@
 Reindev here,
 <br>
-a junior dev with a neuroscience academic background
+a web developer with a neuroscience background
 ###
 Currently working with: TS/JS, React, Next, Ruby, RubyOnRails
 <br>
